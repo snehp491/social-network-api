@@ -1,0 +1,19 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehp491/social-network-api.git"
+  },
+  "author": "snehp491",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snehp491/social-network-api/issues"
+  },
+  "homepage": "https://github.com/snehp491/social-network-api#readme"
+}
