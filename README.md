@@ -4,8 +4,7 @@
 * share thoughts
 * react to thoughts
 * add friends 
-* share thoughts. 
-* 
+* share thoughts.  
 
 ## Technologies used
 * Express.js for routing
